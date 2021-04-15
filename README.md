@@ -11,7 +11,6 @@
 - I like to study about different cultures 🌐;
 - I am currently looking for a new job 🔩 ;
 - I really enjoy working as a team! Are we going to start a project 💻 🔧?
-- Send an email, let's talk : meireles2013miguel@gmail.com 📫;
 
 ### ⚒ Language and Tools :
 
