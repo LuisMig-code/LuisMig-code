@@ -19,6 +19,7 @@
 ![Colab](https://img.shields.io/badge/-GoogleColab-black?style=flat-square&logo=googlecolab)
 ![Excel](https://img.shields.io/badge/-Excel-black?style=flat-square&logo=microsoftexcel)
 ![SQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Wordpress](https://img.shields.io/badge/-Wordpress-black?style=flat-square&logo=wordpress)
 
 
 
