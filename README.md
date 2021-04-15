@@ -24,5 +24,7 @@
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-black?style=flat-square&logo=sklearn)
 
 ### 📞 Let's talk :
-<img src="https://img.icons8.com/plasticine/24/000000/gmail.png"/> - meireles2013miguel@gmail.com
-[Twitter]<img src="https://img.icons8.com/carbon-copy/24/000000/twitter--v2.png"/>
+- <img src="https://img.icons8.com/plasticine/24/000000/gmail.png"/> - meireles2013miguel@gmail.com 
+- <a href="https://twitter.com/BayLeonhard_EuL"> <img src="https://img.icons8.com/officel/24/000000/twitter.png"/> </a>
+- <a href="https://www.linkedin.com/in/luis-miguel-code/"> <img src="https://img.icons8.com/officel/24/000000/twitter.png"/> </a>
+
