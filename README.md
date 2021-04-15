@@ -24,5 +24,4 @@
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-black?style=flat-square&logo=sklearn)
 
 ### 📞 Let's talk :
-![image](https://user-images.githubusercontent.com/59848266/114917097-f6ecd380-9dfb-11eb-81a8-3f978be0d005.png)
-
+<img src="https://img.icons8.com/plasticine/24/000000/gmail.png"/>
