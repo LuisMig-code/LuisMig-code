@@ -24,4 +24,5 @@
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-black?style=flat-square&logo=sklearn)
 
 ### 📞 Let's talk :
-<div>Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+![image](https://user-images.githubusercontent.com/59848266/114917097-f6ecd380-9dfb-11eb-81a8-3f978be0d005.png)
+
