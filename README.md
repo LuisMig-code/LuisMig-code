@@ -6,20 +6,20 @@
  
  ![Luís GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuisMig-code&show_icons=true)
 
-✨ ### Quick Facts:
+### ✨ Quick Facts:
 - I’m from the province of **Maranhão** , in Brazil 🇧🇷 ;
 - I like to study about different cultures 🌐;
 - I am currently looking for a new job 🔩 ;
 - I really enjoy working as a team! Are we going to start a project 💻 🔧?
 - Send an email, let's talk : meireles2013miguel@gmail.com 📫;
 
-⚒ ### Language and Tools :
+### ⚒ Language and Tools :
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Colab](https://img.shields.io/badge/-GoogleColab-black?style=flat-square&logo=googlecolab)
 ![Excel](https://img.shields.io/badge/-Excel-black?style=flat-square&logo=microsoftexcel)
 ![SQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-black?style=flat-square&logo=wordpress)
-
+![FL Studio](https://img.shields.io/badge/-FLStudio-black?style=flat-square&logo=flstudio)
 
 
