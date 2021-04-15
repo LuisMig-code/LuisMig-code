@@ -16,3 +16,5 @@
 ⚒ ### Language and Tools :
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Colab](https://img.shields.io/badge/-Colab-black?style=flat-square&logo=colab)
+
