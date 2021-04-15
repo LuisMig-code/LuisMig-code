@@ -20,6 +20,5 @@
 ![Excel](https://img.shields.io/badge/-Excel-black?style=flat-square&logo=microsoftexcel)
 ![SQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-black?style=flat-square&logo=wordpress)
-![FL Studio](https://img.shields.io/badge/-FLStudio-black?style=flat-square&logo=flstudio)
-
-
+![Plataformas Google](https://img.shields.io/badge/-Google-black?style=flat-square&logo=google)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-black?style=flat-square&logo=sklearn)
