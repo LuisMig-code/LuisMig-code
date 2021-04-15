@@ -17,4 +17,6 @@
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Colab](https://img.shields.io/badge/-GoogleColab-black?style=flat-square&logo=googlecolab)
+![Excel](https://img.shields.io/badge/-Excel-black?style=flat-square&logo=excel)
+
 
