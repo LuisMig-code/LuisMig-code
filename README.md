@@ -5,7 +5,7 @@
  </p>
  
  ![Luís GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuisMig-code&show_icons=true)
- ![![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMig-code&theme=tokyonight)](https://github.com/LuisMig-code)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMig-code&theme=tokyonight)](https://github.com/LuisMig-code)
 
 
 ### ✨ Quick Facts:
