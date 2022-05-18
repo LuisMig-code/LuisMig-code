@@ -14,7 +14,6 @@
 ### ✨ Quick Facts:
 - I’m from the province of **Maranhão** , in Brazil 🇧🇷 ;
 - I like to study about different cultures 🌐;
-- I am currently looking for a new job 🔩 ;
 - I really enjoy working as a team! Are we going to start a project 💻 🔧?
 
 ### ⚒ Language and Tools :
