@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Brazil-2E9EF7?style=flat-square&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/Experience-5%2B%20years-2E9EF7?style=flat-square&logo=briefcase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Currently-PEAKX%20%2B%20M3%20Social-2E9EF7?style=flat-square&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Currently-PEAKX%20%2B%20M-2E9EF7?style=flat-square&logo=rocket&logoColor=white" />
 </p>
 
 ---
